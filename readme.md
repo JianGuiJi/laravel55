@@ -4,3 +4,6 @@ composer install
 
 npm install
 
+前端使用 vue
+
+
