@@ -6,6 +6,8 @@
     <title>Laravel55 vue2.1</title>
 </head>
 <body>
+<a href="./#/hello">Hello</a>
+<a href="./#/Home">Home</a>
 <div id="app">
 
 </div>

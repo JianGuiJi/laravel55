@@ -12,6 +12,11 @@ export default new VueRouter({
             name: 'hello',
             path: '/hello',
             component: resolve => void(require(['../components/Hello.vue'], resolve))
+        },
+        {
+            name: 'home',
+            path: '/home',
+            component: resolve => void(require(['../components/Home.vue'], resolve))
         }
     ]
 });
